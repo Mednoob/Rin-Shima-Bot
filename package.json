@@ -1,0 +1,18 @@
+{
+  "name": "Rin_Shima",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mednoob",
+  "license": "MIT",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "child_process": "^1.0.2",
+    "discord.js": "^12.2.0",
+    "fs": "^0.0.1-security",
+    "kitsu": "^10.0.0-alpha.5",
+    "nana-api": "^1.1.2",
+    "nekos.life": "^2.0.7",
+    "node-gyp": "^7.1.0",
+    "superagent": "^6.0.0"
+  }
+}
